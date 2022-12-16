@@ -1,11 +1,23 @@
-,date,temp,sunrise,humidity
-0,Thu 15,56°,91%,91%
-1,Fri 16,65°,0 of 10,0 of 10
-2,Fri 16,58°,--,--
-3,Sat 17,65°,1:23 pm,1:23 pm
-4,Sat 17,54°,88%,88%
-5,Sun 18,67°,2 of 10,2 of 10
-6,Sun 18,58°,8:26 am,8:26 am
-7,Mon 19,69°,6:11 pm,6:11 pm
-8,Mon 19,58°,90%,90%
-9,Tue 20,69°,0 of 10,0 of 10
+,city,date,temp,sunrise,humidity
+0,tangier,Fri 16,58.0,90%,90%
+1,tangier,Sat 17,54.0,12:51 am,12:51 am
+2,tangier,Sun 18,59.0,88%,88%
+3,tangier,Mon 19,58.0,8:27 am,8:27 am
+4,tangier,Tue 20,59.0,94%,94%
+5,tangier,Wed 21,56.0,1:50 am,1:50 am
+6,tangier,Thu 22,55.0,85%,85%
+7,tangier,Fri 23,56.0,8:28 am,8:28 am
+8,tangier,Sat 24,56.0,89%,89%
+9,tangier,Sun 25,57.0,2:51 am,2:51 am
+10,tangier,Mon 26,57.0,84%,84%
+11,Benguerir,Fri 16,50.0,90%,90%
+12,Benguerir,Sat 17,47.0,1:03 am,1:03 am
+13,Benguerir,Sun 18,46.0,84%,84%
+14,Benguerir,Mon 19,46.0,8:26 am,8:26 am
+15,Benguerir,Tue 20,47.0,88%,88%
+16,Benguerir,Wed 21,45.0,2:00 am,2:00 am
+17,Benguerir,Thu 22,44.0,76%,76%
+18,Benguerir,Fri 23,44.0,8:27 am,8:27 am
+19,Benguerir,Sat 24,45.0,76%,76%
+20,Benguerir,Sun 25,47.0,2:58 am,2:58 am
+21,Benguerir,Mon 26,46.0,62%,62%
